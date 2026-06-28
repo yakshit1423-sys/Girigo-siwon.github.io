@@ -1,0 +1,6 @@
+{
+  "name": "Girigo Wish",
+  "description": "An occult-themed wish-granting app inspired by Girigo. Whisper your deepest wishes, see them granted, and watch the terrifying 24-hour countdown begin.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
